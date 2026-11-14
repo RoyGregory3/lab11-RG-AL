@@ -1,3 +1,6 @@
+#https://github.com/RoyGregory3/lab11-RG-AL.git
+#Partner 1: Roy Gregory
+#Partner 2: Abigail Laber
 """
 calculator.py
 - Defines functions used to create a simple calculator
